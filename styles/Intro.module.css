@@ -1,0 +1,23 @@
+.picContainer{
+    background-image: url('../public/defaultPic.png');
+    background-size: cover;
+    height:100vh;
+    width:100%;
+    backdrop-filter: blur(28px);
+    filter: brightness(90%);
+    display:grid;
+}
+
+.name {
+    margin:auto;
+    text-shadow: 0px 10px 6px #000000C1;
+    color: white;
+    font-size:128px;
+}
+
+.who {
+    display: inline;
+    margin:auto;
+    color:white;
+    font-size:64px;
+}
