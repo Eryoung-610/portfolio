@@ -1,9 +1,10 @@
 .picContainer{
     background-image: url('../public/defaultPic.png');
     background-size: cover;
+    background-attachment: fixed;
     height:100vh;
     width:100%;
-    filter: brightness(90%);
+    z-index: -2;
     display:flex;
     flex-direction: column;
 }
@@ -12,6 +13,7 @@
     text-shadow: 0px 10px 6px #000000C1;
     color: white;
     font-size:84px;
+    font-family: 'Raleway', sans-serif;
 }
 
 .description {
@@ -21,13 +23,15 @@
     text-shadow: 0px 10px 6px #000000C1;
     color:white;
     font-size: 32px;
+    font-family: 'Raleway', sans-serif;
 }
 
 .who {
     display: inline;
-    margin:auto;
+    margin-left:1em;
     color:white;
-    font-size:64px;
+    font-size:32px;
+    font-family: 'Raleway', sans-serif;
 }
 
 .test{
@@ -39,4 +43,11 @@
     margin-bottom: 10px;
     font-size:64px;
     color:white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.tester{
+    text-align:center;
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
 }

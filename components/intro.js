@@ -14,7 +14,7 @@ export default function intro() {
             </Typist>
 
                 <div className={style.bottom}>
-                    <img src="downArrow.svg"></img>
+                    <img src="downArrow.svg" className={style.tester}></img>
                     <h1 className={style.who}>Who am I</h1>
                 </div>
 
