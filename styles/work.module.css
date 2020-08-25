@@ -1,0 +1,23 @@
+.workContainer {
+    height: 100vh;
+    background-color: #4D4C4C;   
+}
+
+.work {
+    color:white;
+    font-size: 64px;
+    text-shadow: 0px 10px 6px #00000077;
+    margin: 0 auto;
+    text-align:center;
+}
+
+.svgs{
+    height:64px;
+    width:64px;
+}
+
+.test{
+    height:64px;
+    width:64px;
+    fill:#61DBFB;
+}
