@@ -1,6 +1,7 @@
 .workContainer {
     height: 100vh;
     background-color: #4D4C4C;   
+    text-align:center;
 }
 
 .work {
@@ -16,8 +17,21 @@
     width:64px;
 }
 
+.svgs:hover{
+    transform: scale(1.3);
+}
+
 .test{
     height:64px;
     width:64px;
     fill:#61DBFB;
+}
+
+.test:hover{
+    transform: scale(1.3);
+}
+
+.svgDiv{
+    display:flex;
+    justify-content: space-around;
 }

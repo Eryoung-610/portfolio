@@ -1,5 +1,5 @@
 .aboutMeContainer{
-    height:50vh;
+    min-height:50vh;
     background-color: #4D4C4C;
     display:flex;
     flex-direction: column;

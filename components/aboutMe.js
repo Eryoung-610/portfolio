@@ -15,7 +15,7 @@ const aboutMe = () => {
                     <Col xs={12} md={8} lg={9} className={style.test}>
                         <h1 className={style.iAm}>I am ...</h1>
                         <p className={style.description}>
-                            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+                            a 21 year old software engineer attending The University of California, Davis studying computer science. I graduated from General Assembly's Software Engineering Immersive bootcamp in August of 2020 where I learned to create full stack applications by means of MERN or PERN stack. Stepping away from programming, I enjoy playing video games, paddling, and playing basketball.
                 </p>
                     </Col>
 
