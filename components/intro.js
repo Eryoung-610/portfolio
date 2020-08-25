@@ -10,6 +10,7 @@ export default function intro() {
 
             <Typist className = {style.test}>
                 <h1 className={style.name}>Hi I'm Eric Young</h1>
+                <h3 className={style.description}>Software Engineer</h3>
             </Typist>
 
                 <div className={style.bottom}>
