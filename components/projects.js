@@ -98,7 +98,7 @@ export default function projects() {
 
                 <div>
                     <a href="https://condescending-spence-15bcf7.netlify.app/"><h1 className={style.projectName}>World of Wonder</h1></a>
-                    <p className={style.projectDescription}>Built with the MERN stack, World of Wonder is an interactive, online application dedicated to bringing a musuem to you. With text to speech features, and an ability to take notes on artifacts as you wander throughout the rooms, curate their own exhibit by saving artifacts, and the application is user friendly for all ages!</p>
+                    <p className={style.projectDescription}>Built with the MERN stack, World of Wonder is a group project that is an interactive, online application dedicated to bringing a musuem to you. With text to speech features, and an ability to take notes on artifacts as you wander throughout the rooms, curate their own exhibit by saving artifacts, and the application is user friendly for all ages!</p>
                 </div>
 
                 <Carousel>
