@@ -1,14 +1,19 @@
 import { useEffect } from "react";
 import style from '../styles/Intro.module.css'
+import Typist from 'react-typist'
 
 export default function intro() {
 
     return (
         <div className={style.intro}>
             <div className={style.picContainer}>
+
+            <Typist className = {style.test}>
                 <h1 className={style.name}>Hi I'm Eric Young</h1>
-                <div className={style.name}>
-                    <img src="downArrow.svg" className={style.name}></img>
+            </Typist>
+
+                <div className={style.bottom}>
+                    <img src="downArrow.svg"></img>
                     <h1 className={style.who}>Who am I</h1>
                 </div>
 

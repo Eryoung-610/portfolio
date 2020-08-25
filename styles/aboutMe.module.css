@@ -1,6 +1,9 @@
 .aboutMeContainer{
     height:100vh;
     background-color: #4D4C4C;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .circlePic {
@@ -16,5 +19,5 @@
 
 .description {
     color: white;
-    font-size: 24px;
+    font-size: 20px;
 }
