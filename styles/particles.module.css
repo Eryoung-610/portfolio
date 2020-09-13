@@ -1,6 +1,6 @@
 .particleContainer{
     min-height:500vh;
     width:100%;
-    z-index: 0;
-    position: fixed;
+    z-index: -1;
+    position: absolute;
 }

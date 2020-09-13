@@ -10,7 +10,10 @@ import Particle from '../components/particles'
 export default function Home() {
   return (
     <div>
-      {/* <Particle /> */}
+      <Head>
+        <title>Eric Young</title>
+      </Head>
+      <Particle />
       <Socials />
       <Intro />
       <AboutMe />
