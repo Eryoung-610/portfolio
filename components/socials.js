@@ -27,7 +27,7 @@ export default function socials() {
                         Large Modal
           </Modal.Title>
                 </Modal.Header>
-                <Modal.Body><iframe src="https://drive.google.com/file/d/1atKQzK9gtoksX9p-6qoUUQ5VSOhm_lkc/preview?usp=sharing" className={style.resumeWindow}></iframe></Modal.Body>
+                <Modal.Body><iframe src="https://drive.google.com/file/d/1dXwg9SbH9G6MglqnL_z6clWDnQeR48di/preview?usp=sharing" className={style.resumeWindow}></iframe></Modal.Body>
             </Modal>
         </div>
     )
