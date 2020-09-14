@@ -13,7 +13,7 @@ export default function Home() {
       <Head>
         <title>Eric Young</title>
       </Head>
-      <Particle />
+      {/* <Particle /> */}
       <Socials />
       <Intro />
       <AboutMe />
