@@ -10,8 +10,11 @@
 }
 
 .name {
-    text-shadow: 0px 10px 6px #000000C1;
-    color: white;
+    /* text-shadow: 0px 10px 6px #000000C1; */
+    text-align: center;
+    margin:0 auto;
+    justify-content: center;
+    color: black;
     font-size:84px;
     font-family: 'Raleway', sans-serif;
 }
@@ -20,8 +23,8 @@
     text-align: center;
     margin:0 auto;
     justify-content: center;
-    text-shadow: 0px 10px 6px #000000C1;
-    color:white;
+    /* text-shadow: 0px 10px 6px #000000C1; */
+    color:black;
     font-size: 32px;
     font-family: 'Raleway', sans-serif;
 }
@@ -50,4 +53,11 @@
     text-align:center;
     margin: 0 auto;
     font-family: 'Raleway', sans-serif;
+}
+
+.test3{
+    margin: 0 auto;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
 }

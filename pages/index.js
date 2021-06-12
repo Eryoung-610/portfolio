@@ -13,13 +13,14 @@ export default function Home() {
       <Head>
         <title>Eric Young</title>
       </Head>
-      {/* <Particle /> */}
-      <Socials />
-      <Intro />
-      <AboutMe />
-      <Work />
-      <Projects />
       
+      {/* <Particle /> */}
+      {/* <Socials /> */}
+      <Intro />
+      {/* <AboutMe /> */}
+      {/* <Work /> */}
+      {/* <Projects /> */}
+      {/* <Construction /> */}
     </div>
   )
 }
