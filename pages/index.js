@@ -15,12 +15,11 @@ export default function Home() {
       </Head>
       
       {/* <Particle /> */}
-      {/* <Socials /> */}
+      <Socials />
       <Intro />
-      {/* <AboutMe /> */}
-      {/* <Work /> */}
-      {/* <Projects /> */}
-      {/* <Construction /> */}
+      <AboutMe />
+      <Work />
+      <Projects />
     </div>
   )
 }
